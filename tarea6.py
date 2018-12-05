@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #UNAM-CERT
+#Es necesario instalar las bibliotecas requests, tor y pysocks
 import sys
 import optparse
 import requests
